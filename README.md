@@ -1,6 +1,8 @@
-<h3>Name: Silambarasan K</h3>
-<h3>Register Number: 212221230101</h3>
-<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+
+<h1 align = center>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h4>Name: Silambarasan K</h4>
+<h4>Register Number: 212221230101</h4>
+<h4>Date: 12/05/2025
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
