@@ -25,8 +25,6 @@ It is assumed that there will always be a safe path that the agent can take to e
 </p>
 <h3> PROGRAM:</h3>
 
-<h3>DEVELOPED BY : M.PAVITHRA </h3>
-<h3>REGISTER  NUMBER: 212222100032 </h3>
 
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
